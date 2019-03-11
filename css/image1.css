@@ -503,7 +503,7 @@ ul.year li {
     font-size: 1em;
     color: #fff;
     text-align: center;
-    background: #288bd6;
+    background: rgb(0, 128, 255);
     padding: 5px 0;
     width:60%;
     display: block;
