@@ -30,13 +30,12 @@ body h1,h2,h3,h4,h5,h6{
 }
 .logo h1 {
     margin: 0;
-    text-transform: uppercase;
     font-weight: bold;
-     color: red;
+     color: white;
 }
 .logo h1 a{
 	text-decoration:none;
-	 color: red;
+	 color: white;
 }
 
 .logo{
